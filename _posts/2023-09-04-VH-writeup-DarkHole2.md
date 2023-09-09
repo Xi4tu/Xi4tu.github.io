@@ -8,6 +8,7 @@ header:
 categories:
   - Vulnhub
   - Easy
+  - Linux
 tags:
   - Vulnhub
   - Sqli
